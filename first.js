@@ -49,3 +49,4 @@ for(let i=0;i<=5; i++){
 
 }
 // let count=0 while(count<){statemebts count++}
+console.log("first");
